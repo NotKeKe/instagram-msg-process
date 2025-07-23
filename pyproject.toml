@@ -1,0 +1,8 @@
+[project]
+name = "Instagram_Message_Json_Resolver"
+version = "0.1.0"
+requires-python = ">=3.9"
+readme = "README.md"
+dependencies = [
+    "orjson>=3.11.0",
+]
